@@ -28,7 +28,7 @@ This is a **beta** version of the CFIE-FRSE tool: Corporate Financial Informatio
   * 10	Risk management
   * 11	Chairman’s governance
   * 12	CSR disclosures
-  * 0: Indicates any other section that doesn't belong to the sections between 1 and 8
+  * 0: Indicates any other section that doesn't belong to the sections between 1 and 12
 
 * The analysis results of the uploaded files or reports can be found in output directory under file name output.csv 
   which will show the results of all the processed pdf files.
