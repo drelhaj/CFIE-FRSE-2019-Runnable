@@ -1,3 +1,9 @@
+**NOTE THIS IS A BETA TESTING VERSION OF CFIE-FRSE**
+**FOR THE STABLE LATESET VERSION PLEASE GO TO:**
+https://github.com/drelhaj/CFIE-FRSE
+
+
+
 ![alt tag](http://www.lancaster.ac.uk/staff/elhaj/images/cfie_desktop_logo1.png)
 
 # About
